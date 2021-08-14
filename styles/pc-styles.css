@@ -1,0 +1,7 @@
+@media screen and (min-width: 970px) {
+    .container {
+        width: 40vw;
+        height: 60vh;
+        font-size: 30px;
+    }
+}
