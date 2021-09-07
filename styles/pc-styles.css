@@ -4,4 +4,9 @@
         height: 60vh;
         font-size: 30px;
     }
+
+    .searchInput,
+    .searchBtn {
+        font-size: 20px;
+    }
 }

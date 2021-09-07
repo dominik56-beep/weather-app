@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    background-image: url("https://wallpapermemory.com/uploads/847/field-background-full-hd-70408.jpg");
+    background-image: url("field.jpg");
     background-size: cover;
 }
 
@@ -32,11 +32,13 @@ body {
     margin-top: 40px;
     width: 70%;
     height: 40%;
-   /*  background-color: aquamarine; */
+    /* background-color: aquamarine; */
+    box-sizing: border-box;
+    padding-left: 10px;
 }
 
 .searchContainer {
-    border: solid 1px;
+    border: solid 1px rgb(187, 184, 184);
     width: 60%;
     height: 8%;
     border-radius: 4px;
